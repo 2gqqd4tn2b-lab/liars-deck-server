@@ -1,17 +1,17 @@
 {
-  "name": "liars-deck-server",
-  "version": "1.0.0",
-  "description": "Multiplayer server for Liar's Deck",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "socket.io": "^4.7.4"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  }
+  "name": "liars-deck-server",
+  "version": "1.0.0",
+  "description": "Liar's Deck Multiplayer Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }
