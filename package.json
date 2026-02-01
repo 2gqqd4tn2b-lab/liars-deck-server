@@ -1,7 +1,7 @@
 {
   "name": "liars-deck-server",
   "version": "1.0.0",
-  "description": "Liar's Deck Multiplayer Server",
+  "description": "Multiplayer server for Liar's Deck",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
